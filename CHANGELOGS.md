@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Postes en south area (12/11/2024)
+- Esferas en north area (12/11/2024)
 
 ### Changed
 
